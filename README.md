@@ -5,7 +5,7 @@ clrs.cc for Inkscape is a fork of the project "COLORS - A nicer color palette fo
 
 From Terminal:
 
-- `git clone`
+- `git clone https://github.com/martinbetz/clrs-inkscape.git`
 - `cd clrs-inkscape`
 - `cp clrscc.gpl /Applications/Inkscape.app/Contents/Resources/share/inkscape/palettes/clrscc.gpl`
 - Restart Inkscape
